@@ -2,3 +2,4 @@
 *.jpg
 Dataset/
 tests/
+*.pth
